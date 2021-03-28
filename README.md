@@ -12,6 +12,12 @@ Sourced from [gokhanyavas/Oxford-3000-Word-List](https://github.com/gokhanyavas/
 
 Original resource provided by [Oxford University Press](https://global.oup.com/).
 
+## Contributing
+
+This repository is not open for contributions.
+
+Please [create a new issue](https://github.com/onoira/circa3k/issues/new) if you believe there is an error.
+
 ## License
 
 [CC0-1.0](LICENSE)
